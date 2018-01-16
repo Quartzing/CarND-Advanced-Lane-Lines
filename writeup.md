@@ -110,7 +110,7 @@ print(left_curverad, right_curverad)
 
 I implemented this step in `code.ipynb`.  Here is an example of my result on a test image:
 
-![alt text](output_images/videoexample.png)
+![alt text](output_images/videoexample2.png)
 
 ---
 
